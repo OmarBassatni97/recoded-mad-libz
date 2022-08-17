@@ -47,3 +47,7 @@ getRawStory()
   .then((processedStory) => {
     console.log(processedStory);
   });
+
+  function firstFunction(){
+    
+  }
